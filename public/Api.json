@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "A legendary 35mm film camera from the 1950s, renowned for its precision, durability, and classic design — a must-have for collectors and photographers.",
+      "currentBidPrice": 1200.00,
+      "timeLeft": "2h 10m",
+      "bidsCount": 7,
+      "image": "https://i.ibb.co.com/Tx63xxBY/Bid1-min.png"
+    },
+{
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "An iconic electric guitar with a powerful sound and sleek double-cutaway body. A prized instrument for serious musicians and collectors.",
+    "currentBidPrice": 1850.00,
+    "timeLeft": "6h 05m",
+    "bidsCount": 12,
+    "image": "https://i.ibb.co.com/V0F1LHSw/Bid2-min.png"
+  },
+{
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "Apple’s first personal computer with a GUI. This piece of tech history is a rare collector’s item from the dawn of modern computing.",
+    "currentBidPrice": 1000.00,
+    "timeLeft": "0h 45m",
+    "bidsCount": 4,
+    "image": "https://i.ibb.co.com/rR2W4NfF/Bid3-min.png"
+  },
+{
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "A timeless diver’s watch known for its durability, style, and prestige. Stainless steel build with classic black dial — a luxury icon.",
+    "currentBidPrice": 2200.00,
+    "timeLeft": "3h 00m",
+    "bidsCount": 8,
+    "image": "https://i.ibb.co.com/MDRVYFgc/Bid4-min.png"
+  },
+{
+    "id": 5,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "An iconic furniture piece blending luxury and comfort. Crafted with molded wood and leather — a standout in any interior setting.",
+    "currentBidPrice": 1350.00,
+    "timeLeft": "5h 45m",
+    "bidsCount": 6,
+    "image": "https://i.ibb.co.com/B2X2kJ4H/Bid5-min.png"
+  },
+{
+    "id": 6,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "A rare first edition of the American classic. This literary treasure is highly sought after by collectors and literature enthusiasts alike.",
+    "currentBidPrice": 1750.00,
+    "timeLeft": "2h 30m",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/Ps6S3MqG/Bid6-min.png"
+  },
+{
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "Authentic screen print by the elusive street artist Banksy. A powerful piece of modern art with immense cultural and collector value.",
+    "currentBidPrice": 3200.00,
+    "timeLeft": "4h 50m",
+    "bidsCount": 13,
+    "image": "https://i.ibb.co.com/v4CPbgqz/Bid7-min.png"
+  }
+]
